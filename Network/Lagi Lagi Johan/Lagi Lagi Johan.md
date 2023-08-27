@@ -1,4 +1,4 @@
-Johan berada di sebuah perpustakaan,kemudian dia menggunakan komputer ribanya dan berhubung menggunakan WiFi lalu melayari sebuah laman sesawang. Setelah itu dia menggunakan nama pengguna serta katalaluan. Dapatkan anda mencari tahu apakah informasi yang Johan telah masukkan?
+![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7b9d0ed7-e2ab-4816-a830-ea2a4dd295ad)
 
 Diberi satu file.pcapng
 
