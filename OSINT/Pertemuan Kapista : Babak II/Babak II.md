@@ -2,7 +2,7 @@
 
 Tugasan ini ada kaitan dengan tugasan Babak I.
 
-Pada Babak I, kita diberikan username madah4arjuna di media sosial X.
+Pada Babak I, kita diberikan username `madah4arjuna` di media sosial X.
 Sedikit penilitian dibuat di profile beliau dan saya mendapati terdapat dua post yang mempunyai nombor yang agak pelik.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/b11a8a8a-3c3f-4292-91b6-3269f944ca57)
