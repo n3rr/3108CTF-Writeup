@@ -22,7 +22,7 @@ Tanpa ragu-ragu, saya pergi ke akaun tersebut dan mendapati satu link ke discord
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/cb30cff6-7178-4d72-bfb9-12aa19542a37)
 
-Okay, tapi kenapa p3tualang? Pada Tugasan 1, terdapat satu gambar yang diberi apabila kita ekstrak file .eml tersebut. Saya dapati beberapa nama terpapar pada gambar tersebut yang berkemungkinan ada hubungan dengan ITSLOKI, dan salah satunya adalah p3tualang
+Okay, tapi kenapa p3tualang? Pada Tugasan 1, terdapat satu gambar yang diberi apabila kita ekstrak file `.eml` tersebut. Saya dapati beberapa nama terpapar pada gambar tersebut yang berkemungkinan ada hubungan dengan ITSLOKI, dan salah satunya adalah p3tualang
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/79e766b6-c8a6-4327-88da-608b7a63044d)
 
