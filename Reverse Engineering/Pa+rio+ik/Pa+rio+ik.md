@@ -6,6 +6,8 @@ Diberi file ELF 64-bit bernama chall yang meminta kita memasukkan flag.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/e30e222f-c2c2-4f88-945c-506076f0a528)
 
-Analisis file tersebut menggunakan ghidra, kita mendapati bahawa bendera tersebut diencrypt lalu dibandingkan dengan bendera sebenar yang telah diencrypt dan hardcoded di dalam program.
+Analisis file tersebut menggunakan ghidra, kita mendapati bahawa bendera tersebut diencrypt di fungsi [encrypt]() lalu dibandingkan dengan bendera sebenar yang telah diencrypt dan hardcoded di dalam program.
 
-Salah
+Salah cara menyelesaikan tugasan ini adalah dengan dekod semula bendera sebenar.
+
+Satu cara lagi 
