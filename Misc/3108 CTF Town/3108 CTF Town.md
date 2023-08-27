@@ -1,6 +1,6 @@
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/09628ba0-9f8c-468c-8f7e-7cf35a09b5e6)
 
-Diberi file Game Boy Advance
+Diberi file `.gba` (Game Boy Advance)
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9e6902a8-54f9-4173-877c-0a25892dd6b7)
 
