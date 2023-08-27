@@ -1,0 +1,33 @@
+undefined8 main(void)
+
+{
+  char extraout_AL;
+  size_t sVar1;
+  int __edflag;
+  undefined8 uStack_30;
+  char local_28 [32];
+  
+  uStack_30 = 0x10144e;
+  printf("Masukkan flag: ");
+  __edflag = 0x19;
+  uStack_30 = 0x101466;
+  fgets(local_28,0x19,stdin);
+  uStack_30 = 0x101472;
+  sVar1 = strlen(local_28);
+  if (local_28[sVar1 - 1] == '\n') {
+    uStack_30 = 0x10148b;
+    sVar1 = strlen(local_28);
+    local_28[sVar1 - 1] = '\0';
+  }
+  uStack_30 = 0x1014a0;
+  encrypt(local_28,__edflag);
+  if (extraout_AL == '\0') {
+    uStack_30 = 0x1014c4;
+    puts("Anda kurang semangat patriotisme");
+  }
+  else {
+    uStack_30 = 0x1014b3;
+    puts("Terima kasih kerana menjadi rakyat yang menghargai sejarah negara");
+  }
+  return 0;
+}
