@@ -1,6 +1,6 @@
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/c98ccf3b-cb02-4981-8bca-5af3cac206e9)
 
-Diberi sebuah file ELF-64 bit
+Diberi sebuah file `ELF-64 bit`
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/d6febd7b-44f0-42ad-b68c-1498423375b8)
 
