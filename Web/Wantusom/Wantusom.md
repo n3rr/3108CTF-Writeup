@@ -8,7 +8,7 @@ Benda yang sama seperti Wantujus
 
 Tetapi kali ini, markah tersekat pada skala 9.
 
-Jika dilihat pada cebisan code ini, apabila winCount === 9, kita tidak lagi mampu menjadikannya 10 jika kita menggunakan teknik pada Wantujus.
+Jika dilihat pada cebisan code ini, apabila `winCount === 9`, kita tidak lagi mampu menjadikannya 10 jika kita menggunakan teknik pada Wantujus.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/459ef82d-bc8a-46c6-bf25-ae8c406ede1e)
 
@@ -16,7 +16,9 @@ Jika dilihat pada cebisan code ini, apabila winCount === 9, kita tidak lagi mamp
 
 Jadi bagaimana?
 
-Kita cuba menggodek di bahagian console dan akhirnya kita berjaya mendapatkan markah 10 lagi sekali
+Kita cuba menggodek di bahagian `console` dengan menetapkan `winCount === 10`. 
+
+Wah! Kita menang lagi!
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/641b3b1a-fb7e-4e02-a289-bc06bf958b9e)
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/a96762a2-7a25-41f8-bd9c-4c8a568280ce)
