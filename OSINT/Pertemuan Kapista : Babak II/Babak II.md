@@ -1,4 +1,4 @@
-Bravo telah merungkai satu lagi intel baru & menemui kunci kedua. Kunci kedua membawa kepada satu nama orang yang ingin dihunus. Cari & secure sebelum terlambat.
+![image](https://github.com/6D756E6972/3108CTF/assets/129729880/714b4500-028b-4f00-8a56-bb0cc3cc7693)
 
 Tugasan ini ada kaitan dengan tugasan Babak I.
 
@@ -8,7 +8,7 @@ Sedikit penilitian dibuat di profile beliau dan saya mendapati terdapat dua post
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/b11a8a8a-3c3f-4292-91b6-3269f944ca57)
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/b67ab0d5-7663-4927-bfa1-8a34de0f768b)
 
-Ambil nombor ini dan masukkan ke laman sesawang dcode dan kita dapat tahu bahawa nombor tersebut adalah dienkod menggunakan Multi-tap Phone Code (SMS).
+Ambil nombor ini dan masukkan ke laman sesawang [dcode](https://www.dcode.fr/) dan kita dapat tahu bahawa nombor tersebut adalah dienkod menggunakan Multi-tap Phone Code (SMS).
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/cefcec2e-3944-4e21-b2b1-57e91c2413f4)
 
 Lakukan sedikit modifikasi pada kedudukan dua nombor tersebut, kita dapat text yang boleh dibaca.
