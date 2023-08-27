@@ -1,8 +1,6 @@
-Di Malaysia, setiap hari kita dapat hidup dengan aman tanpa sebarang kacau-bilau atau terlibat dalam peperangan. Namun, kita tak sedar bahawa kita sedang berperang dengan minda. Banyak ideologi, kepercayaan, prinsip, falsafah yang semakin mengarut tersebar dalam alam digital. Nasihat saya, kuatkan jati diri dan rujuk kembali apa kandungan yg ada dalam rukun negara.
+![image](https://github.com/6D756E6972/3108CTF/assets/129729880/fdf7c2a4-3782-44b1-9bb5-78c942d10921)
 
-    Rahman
-
-Diberi 2 file berbeza
+Diberi file .py dan .txt.enc (saya anggap enc adalah encryption)
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/17de72f3-1ec5-409c-acf7-023a2f848164)
 
