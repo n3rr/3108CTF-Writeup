@@ -1,6 +1,6 @@
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/75ce80ba-e107-48f3-97de-db24ee52d8cd)
 
-Diberi file .txt
+Diberi file `.txt`
 
 Mari kita lihat
 
