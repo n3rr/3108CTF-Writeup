@@ -10,4 +10,10 @@ Analisis file tersebut menggunakan ghidra, kita mendapati bahawa bendera tersebu
 
 Salah cara menyelesaikan tugasan ini adalah dengan dekod semula bendera sebenar.
 
-Satu cara lagi 
+Satu cara lagi adalah dengan bruteforce. Saya sedar bahawa apabila kita memasukkan format bendera yang bermula dengan 3108{, program tersebut mengucapkan terima kasih, bermaksud bendera kita adalah betul
+
+![image](https://github.com/6D756E6972/3108CTF/assets/129729880/27afe831-2421-4860-9a37-42a24188a6db)
+
+Maka, saya bruteforce program tersebut secara manual menggunakan deskripsi yang diberikan pada soalan iaitu "Bangsa" sehingga mendapatkan bendera yang sebenar 😄
+
+![image](https://github.com/6D756E6972/3108CTF/assets/129729880/2e28b24c-9ac1-4c78-8a29-dc0af1b4a0ee)
