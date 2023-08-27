@@ -16,7 +16,7 @@ Perhati setiap satu gambar tersebut, saya sedar bahawa 5 gambar daripada 6 mempu
 
 Saya teliti gambar tersebut dan akhirnya terjumpa sesuatu pada gambar tersebut.
 
-Terdapat enkod base64 yang tertera pada bahagian bawah gambar iaitu aHR0cHM6Ly9wYXN0ZWJpbi5jb20vd3ZheHhFMGI=
+Terdapat enkod base64 yang tertera pada bahagian bawah gambar iaitu `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vd3ZheHhFMGI=`
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/5fabd64b-e6a7-4b91-8c63-c33566332674)
 
@@ -24,7 +24,7 @@ Dekod daripada base64 dan kita dapat satu pautan ke pastebin
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/178aea9a-0264-4967-a160-79782130fc59)
 
-Pergi ke pautan tersebut dan masukkan password 31082023, kerana pada salah satu posting Hassan Tapa tertera suata tarikh yang mungkin adalah kata laluan untuk pastebin ini.
+Pergi ke pautan tersebut dan masukkan password `31082023`, kerana pada salah satu posting Hassan Tapa tertera suata tarikh yang mungkin adalah kata laluan untuk pastebin ini.
 
 Dengan itu, kita tahu bahawa Hassan Tapa ingin berjumpa Ketua Pengganas Sulu di Pulau Mabul
 
