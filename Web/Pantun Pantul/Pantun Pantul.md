@@ -15,7 +15,7 @@ Oh pantun suda betul! Tetapi tidak dikeluarkan bendera yang dimahukan.
 
 Mari lihat apa yang ada di inspect element.
 
-Terdapat fungsi `bendera()` disini.
+Terdapat fungsi `bendera()` disini 
 
 Seperti yang saya lihat, fungsi ini tidak akan terpanggil.
 
