@@ -15,12 +15,12 @@ Oh pantun suda betul! Tetapi tidak dikeluarkan bendera yang dimahukan.
 
 Mari lihat apa yang ada di inspect element.
 
-Terdapat fungsi bendera() disini.
+Terdapat fungsi `bendera()` disini.
 
 Seperti yang saya lihat, fungsi ini tidak akan terpanggil.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9ac89fde-8a7f-44df-8a37-d5447e34fdef)
 
-Jadi, saya panggil fungsi bendera() melalui console dan bendera pun tertera pada skrin.
+Jadi, saya panggil fungsi `bendera()` melalui console dan bendera pun tertera pada skrin.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/2d32f0cc-503e-4985-bee7-71df9066362a)
