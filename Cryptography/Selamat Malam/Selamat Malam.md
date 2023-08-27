@@ -22,6 +22,6 @@ Jadi sedikit script dibuat untuk memudahkan urusan.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/2070df04-7844-4335-b2d5-a661fceec0b9)
 
-Maka, dapatlah bendera. Semoga Malaysia kekal aman dalam lindugan tuhan 😄
+Maka, dapatlah bendera. Semoga Malaysia kekal aman dalam lindugan tuhan 😄👍
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/45042611-6b0f-4a84-9fc4-e7d452776cf0)
