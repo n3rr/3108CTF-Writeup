@@ -1,5 +1,5 @@
 # Tugasan II : Tali Barut
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/ff4ff46c-eedc-4a0d-9381-32fd98a04a81)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/dcc58903-f91d-403c-a1f6-963b8860ff89)
 
 ## Petunjuk
 1. https://rumkin.com/tools/cipher/baconian/
@@ -16,21 +16,21 @@ Mencari username ITSLOKI adalah agak mustahil kerana terlalu banyak dan susah un
 
 Jadi saya mencari akaun milik Bahtera Siber.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/a78c043e-6ff0-46b8-a01d-272eff82d267)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/f769e39c-6c30-41b2-8fdd-743c48323448)
 
 dan melihat followers akaun tersebut.
 
 Tanpa sengaja, saya terjumpa satu akaun bernama p3tualang
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/6d7e16e4-6afb-4800-85c4-b15ab861bc74)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/e7aedc86-8d37-4290-a2fa-0ddc5827d799)
 
 Tanpa ragu-ragu, saya pergi ke akaun tersebut dan mendapati satu link ke discord server ITSLOKI pada salah satu videonya
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/cb30cff6-7178-4d72-bfb9-12aa19542a37)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/68d5ccf2-786c-45f2-8911-6110cd9dc8eb)
 
 Okay, tapi kenapa p3tualang? Pada Tugasan 1, terdapat satu gambar yang diberi apabila kita ekstrak file `.eml` tersebut. Saya dapati beberapa nama terpapar pada gambar tersebut yang berkemungkinan ada hubungan dengan ITSLOKI, dan salah satunya adalah p3tualang
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/79e766b6-c8a6-4327-88da-608b7a63044d)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/ea5c694c-b101-4628-88f7-94bf23b83f68)
 
 Pergi ke discord server tersebut, pada channel ddos, social-enginnering dan ransomware saya mendapati bahawa terdapat mesej pelik yang dihantar oleh 0xm4mbang
 
