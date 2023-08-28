@@ -1,10 +1,10 @@
 # Pertemuan Kapisata : Babak I
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7153ef3e-d3e1-448e-b832-b92a5fcd6cae)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/cd55dde0-0840-4e88-a42a-3a3ccbcd1163)
 
 ## Penyelesaian
 Mari lihat apa yang diberikan di pautan Youtube tersebut
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/e1120702-121f-4343-9283-8c98f3563b05)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/1f437945-a659-42ea-ade8-8064eb5c0fc7)
 
 Terdapat mesej penting didalam video tersebut.
 
@@ -14,7 +14,7 @@ Seperti dinyatakan dalam video tersebut, kita perlu mencari satu account di medi
 
 Dan, Bendera terkandung pada posting terbaru beliau
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/c85f7bda-585d-42f9-b1a2-836e8d79fca2)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/2e472e02-7d89-4b67-8670-ac39dd28199b)
 
 ## Bendera
 3108{angka_keramat}
