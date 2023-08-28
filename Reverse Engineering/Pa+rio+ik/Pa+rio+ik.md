@@ -23,5 +23,5 @@ Maka, saya bruteforce program tersebut secara manual menggunakan deskripsi yang 
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/2e28b24c-9ac1-4c78-8a29-dc0af1b4a0ee)
 
-# Bendera
+## Bendera
 3108{B4NG5A_M3RD3K4}
