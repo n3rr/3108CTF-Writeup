@@ -34,21 +34,21 @@ Okay, tapi kenapa p3tualang? Pada Tugasan 1, terdapat satu gambar yang diberi ap
 
 Pergi ke discord server tersebut, pada channel ddos, social-enginnering dan ransomware saya mendapati bahawa terdapat mesej pelik yang dihantar oleh 0xm4mbang
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/30419684-4cf6-4b8a-8d3b-3614f94cb545)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/f48c1fc8-dca7-4539-9e5d-dc846430824b)
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/74b7f294-6f04-4218-bab4-ebceee12f169)
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/5186e122-66ce-42e9-9f1a-738ab3ecc840)
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/a4d2c333-ad19-461e-8edf-89372a2fcacc)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/68bf0c96-c507-47dd-9768-b35001f8ee89)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/5c17d93f-a669-4118-83f3-2f1e3812f094)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/4df44ad4-e9bb-4ad6-a86b-d2bb50dcfd41)
 
 Selepas itu, saya terlihat satu lagi hint diberikan oleh 0xm4mbang
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/df8cfdc5-b556-43ac-a06a-37f9edef75a4)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/cb4310c9-d170-4796-aa56-4c1dfc6fdca8)
 
 Wah, ini adalah [Baconian](https://rumkin.com/tools/cipher/baconian/)! 
 
 Dekod text tersebut, dan rupanya itu adalah mesej dari Sambanthan
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9936f0f6-f174-488c-ab2e-c4dda4580bc1)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/dc5a6c7e-9b2e-413e-b27d-f59710addd17)
 
 ## Bendera
 3108{S3NT14SA_P3KA}
