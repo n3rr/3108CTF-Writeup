@@ -1,5 +1,11 @@
+# Tugasan II : Tali Barut
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/ff4ff46c-eedc-4a0d-9381-32fd98a04a81)
 
+## Petunjuk
+1. https://rumkin.com/tools/cipher/baconian/
+2. Media sosial video pendek
+
+## Penyelesaian
 Tugasan ini adalah sambungan dari Tugasan 1.
 
 Klu diberikan adalah "Media sosial video pendek".
@@ -44,5 +50,5 @@ Dekod text tersebut, dan rupanya itu adalah mesej dari Sambanthan
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9936f0f6-f174-488c-ab2e-c4dda4580bc1)
 
-
-
+## Bendera
+3108{S3NT14SA_P3KA}
