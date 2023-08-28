@@ -8,17 +8,91 @@ Format pertandingan adalah jeopardy dan jalan cerita.
 
 Markah diberi menggunakan konsep Pool Based (Markah Asal / Jumlah Solved)
 
-p/s: saya tidak dapat membuat semua tugasan, hanya mampu membuat sekurang-kurangnya satu tugasan untuk setiap kategori kecuali Stega dan Forensic :face_with_spiral_eyes:
+Writeup ini bertujuan untuk menjadi rujukan pada masa akan datang
+
+p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega dan Forensic dan beberapa tugasan lain :face_with_spiral_eyes:
 
 # Kategori
-+ Tugasan Utama : Warkah untuk Perwira
-+ Tugasan Sampingan
-  + Web
-  + Reverse Engineering
-  + Stega
-  + Cryptography
-  + Network
-  + Misc
-  + Forensic
-  + Osint
-+ Tugasan Khas : Kenali Penaja
+<details>
+<summary>Tugasan Utama : Warkah untuk Perwira</summary>
+
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | Tugasan I : Seruan Perwira | - |
+  | Tugasan II : Tali Barut | - |
+  | Warkah Akhir | - |
+  
+</details>
+
+<details>
+<summary>Tugasan Sampingan</summary>
+  <details>
+  <summary>Web</summary>
+    
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | Lemah | Mudah |
+  | Wantujus | Mudah |
+  | Wantusom | Mudah |
+  | Pantul Pantun | Sederhana |
+  </details>
+
+  <details>
+  <summary>Reverse Engineering</summary>
+
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | Sarawak | Mudah | 
+  | Pa+rio+ik | Mudah|
+  </details>
+  
+  <details>
+  <summary>Cryptography</summary>
+
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | Nasihat | Mudah |
+  | Selamat Malam | Sederhana |
+  | 1957bit | Sederhana |
+  </details>
+
+  <details>
+  <summary>Network</summary>
+
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | Johan | Mudah |
+  | Lagi-lagi Johan | Mudah |
+  </details>
+
+  <details>
+  <summary>Misc</summary>
+
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | Mencari Rahsia Si Dia | Mudah |
+  | 3108 CTF Town | Sederhana |
+  </details>
+
+   <details>
+  <summary>Osint</summary>
+
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | Pertemuan Kapista : Babak I | Mudah |
+  | Pertemuan Kapista : Babak II | Mudah |
+  | Pertemuan Kapista : Finale | Finale |
+  </details>
+</details>
+
+ <details>
+ <summary>Tugasan Khas : Kenali Penaja</summary>
+   
+  | Tugasan | Tahap Kesukaran |
+  | --- | --- |
+  | YAYASAN DIGITAL MALAYSIA | - |
+  | RE:HACK | - |
+  | TENANG KOMUNITI | - |
+  | ASK PENTEST | - |
+  | SCAMGATE | - |
+ </details>
