@@ -1,6 +1,6 @@
 # 3108 CTF 2023 Writeup
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/30f71fd7-e69d-4814-a4a4-287ab7b4ac98)
+![image](https://github.com/6E3372/3108CTF/assets/129729880/30f71fd7-e69d-4814-a4a4-287ab7b4ac98)
 
 Ini adalah pertandigan CTF (Capture The Flag) yang dianjurkan oleh Bahtera Siber sempena menyambut Hari Kemerdekaan Malaysia yang ke-66.
 
