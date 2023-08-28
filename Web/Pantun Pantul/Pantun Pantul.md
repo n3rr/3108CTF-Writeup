@@ -1,5 +1,5 @@
 # Pantun Pantul
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9cc11670-905e-4f95-9bdb-8a9da233d814)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/fc776cab-e2c4-4fbf-ab2f-35ff9905d8ff)
 
 ## URL
 https://pantun.bahterasiber.my/
@@ -7,16 +7,16 @@ https://pantun.bahterasiber.my/
 ## Penyelesaian
 Akses pautan tersebut.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/ff8b650a-ec2e-42ba-b4b2-8c444f213bef)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/6146393f-ad75-4032-bca4-ee3cfa6a9eb7)
 
 Web tersebut akan memantulkan kembali apa yang kita isi didalam ruangan tersebut.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/105ed30c-fd4e-45f0-9eef-f34724b35e93)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/ad12c959-7928-43bf-8e57-62a5a361741c)
 
 Jadi saya cuba lengkapkan pantun itu.
 
 Oh pantun suda betul! Tetapi tidak dikeluarkan bendera yang dimahukan.
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/6b943db6-a162-4ee0-993d-ccdc1cc912d6)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/2fce84e9-301b-4526-bb31-dbf332354da7)
 
 Mari lihat apa yang ada di inspect element.
 
@@ -24,11 +24,11 @@ Terdapat fungsi `bendera()` disini
 
 Seperti yang saya lihat, fungsi ini tidak boleh terpanggil dengan sendirinya.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9ac89fde-8a7f-44df-8a37-d5447e34fdef)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/165417ac-e1c8-469f-8734-e4f89dd697d9)
 
 Jadi, saya panggil fungsi `bendera()` melalui console dan bendera pun tertera pada skrin.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/2d32f0cc-503e-4985-bee7-71df9066362a)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/b340cce4-d6ed-46a4-ac4b-69c41826969b)
 
 ## Bendera
 3108{pantun1337kerat}
