@@ -1,5 +1,5 @@
 # Wantusom
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7596d9ba-1bc3-4133-8d1e-08c45dfc80bb)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/b12a8bf2-4aee-4bac-a899-ef8cfa525032)
 
 ## URL
 https://wantusom.bahterasiber.my
@@ -7,15 +7,15 @@ https://wantusom.bahterasiber.my
 ## Penyelesaian
 Benda yang sama seperti Wantujus
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/76582c0f-afdb-4b29-904e-57cd7f4c9e7f)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/74aea810-30ea-4c44-ad7f-99367cbd1738)
 
 Tetapi kali ini, markah tersekat pada skala 9.
 
 Jika dilihat pada cebisan code ini, apabila `winCount === 9`, kita tidak lagi mampu menjadikannya 10 jika kita menggunakan teknik pada Wantujus.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/459ef82d-bc8a-46c6-bf25-ae8c406ede1e)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/afd024f7-c692-4cf5-a6ff-343d04e35774)
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/40b2749c-2806-487a-b57f-3ab6e66eaeb5)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/6a30b07b-e2e9-4a89-a2ca-80d4b2c49cd1)
 
 Jadi bagaimana?
 
@@ -23,12 +23,12 @@ Kita cuba menggodek di bahagian `console` dengan menetapkan `winCount === 10`.
 
 Wah! Kita menang lagi!
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/641b3b1a-fb7e-4e02-a289-bc06bf958b9e)
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/a96762a2-7a25-41f8-bd9c-4c8a568280ce)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/756a3d5e-f353-4c58-9d57-ad2b76fbe3ca)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/0e55fb71-9441-440e-8276-b7bf83dbd7ba)
 
 Mmm... biskut lagi. Ingat tak macam mana saya tukar biskut sebelum ini? Ya. cara yang sama
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/cabcebfa-9f3c-420a-b555-449b2c7ab86b)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/5c03c745-a687-42e9-819e-0c19debdb5fd)
 Sebenarnya, saya lagi suka biskut tiger 😆
 
 ## Bendera
