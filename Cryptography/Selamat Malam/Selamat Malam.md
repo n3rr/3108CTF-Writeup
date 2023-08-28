@@ -1,6 +1,10 @@
 # Selamat Malam
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/75ce80ba-e107-48f3-97de-db24ee52d8cd)
 
+## Petunjuk
+1. Dalam rangkap kataku, ada terselit sebuah mesej untukmu dariku, walau ada jarak antaranya.
+
+## Penyelesaian
 Diberi file `.txt`
 
 Mari kita lihat
@@ -31,6 +35,5 @@ Maka, dapatlah bendera. Semoga Malaysia kekal aman dalam lindugan tuhan 😄👍
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/45042611-6b0f-4a84-9fc4-e7d452776cf0)
 
-# Bendera
+## Bendera
 3108{MALAYSIAAMAN}
-#
