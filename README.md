@@ -18,7 +18,7 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | Tugasan I : Seruan Perwira | - |
+  | [Tugasan I : Seruan Perwira](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Utama/Tugasan%201%20%3A%20Seruan%20Perwira/Tugasan%201.md) | - |
   | Tugasan II : Tali Barut | - |
   | Warkah Akhir | - |
   
