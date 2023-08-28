@@ -1,6 +1,7 @@
 # Pertemuan Kapista : Finale
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/fa40384a-3c83-4dbb-882c-d6ebd60218d1)
 
+## Penyelesaian
 Kita dikehendaki mencari lokasi pertemuan suspek.
 
 Berdasarkan Babak II, kita telah dapat telegram Lanang Kusrani, disitu, ada dinyatakan akaun media sosial Instagram yang dimilik oleh Hassan Tapa.
@@ -31,5 +32,5 @@ Dengan itu, kita tahu bahawa Hassan Tapa ingin berjumpa Ketua Pengganas Sulu di 
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/235e537f-c226-4b70-a5bb-732fc8f18153)
 
-# Bendera
+## Bendera
 3108{Pulau_Mabul}
