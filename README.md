@@ -8,9 +8,9 @@ Format pertandingan adalah jeopardy dan jalan cerita.
 
 Markah diberi menggunakan konsep Pool Based (Markah Asal / Jumlah Solved)
 
-Writeup ini bertujuan untuk menjadi rujukan pada masa akan datang
+Writeup ini bertujuan untuk menjadi rujukan saya pada masa akan datang
 
-p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega dan Forensic dan beberapa tugasan lain :face_with_spiral_eyes:
+p/s: writeup ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega dan Forensic dan beberapa tugasan lain :face_with_spiral_eyes:
 
 # Kategori
 <details>
