@@ -1,12 +1,12 @@
 # Warkah Akhir
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/b1b76b0e-ea6b-4957-b4c7-f73f4bff37ad)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/5630aa1d-f1a4-429f-b9a2-13ddcbc88dc9)
 
 ## Penyelesaian
 Lihat video Youtube pada pautan tersebut.
 
 Scan QR code yang diberi dan isi Google Form.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/48ca78de-959d-4022-8a92-f8f9bbface1d)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/e0c2d122-33fd-4ffc-9e47-45cbdece930c)
 
 ## Bendera
 3108{t3r1m4_k4s1h_d4un_k3l4d1}
