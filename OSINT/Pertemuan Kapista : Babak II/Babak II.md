@@ -1,6 +1,11 @@
 # Pertemuan Kapista : Babak II
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/714b4500-028b-4f00-8a56-bb0cc3cc7693)
 
+## Petunjuk
+1. Ring.. Ring.. Ring.. Intel masuk!
+2. Anda perlu gabung & dekod rahsia di X
+
+## Penyelesaian
 Tugasan ini ada kaitan dengan tugasan Babak I.
 
 Pada Babak I, kita diberikan username `madah4arjuna` di media sosial X.
@@ -24,5 +29,5 @@ Setelah mencari username tersebut, bendera sudah tertera pada ruangan chat teleg
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7d62523e-ad5f-4816-a452-cf02707fb762)
 
-# Bendera
+## Bendera
 3108{Hassan_Tapa}
