@@ -1,5 +1,7 @@
+# Tugasan I : Seruan Perwira
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/70184c8c-68af-4138-89a8-624c16526d5e)
 
+## Penyelesaian
 Klik pada pautan Youtube tersebut, dan kita diberi satu file untuk dimuatnaik dan dianalisis.
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7f6913e1-09c1-493c-a70c-ee50690f5963)
 
@@ -12,6 +14,9 @@ Seterusnya, buka file tersebut. Dengan penuh ketelitian, saya sedar bahawa ini a
 Dengan ini, kita tak dapat memahami sepenuhnya apa yang ada pada email tersebut, maka saya analisis lebih lanjut menggunakan [EML Analyzer](https://eml-analyzer.herokuapp.com/) dan mendapati bahawa terdapat satu lagi file `.zip` yang terkandung dalam email tersebut.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/dc80182c-771c-48c8-8d8a-e01299ae481f)
-Muatnaik file tersebut, ekstrak dengan password 3108, dan cari bendera dalam file `.txt` tersebut.
+Muatnaik file tersebut, ekstrak dengan password `3108`, dan cari bendera dalam file `.txt` tersebut.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/c30ccf2c-25da-4664-9e70-106315ed908c)
+
+## Bendera
+3108{1E2A3C68CC5C0207886EDE403EEF230DC7C0FBD0}
