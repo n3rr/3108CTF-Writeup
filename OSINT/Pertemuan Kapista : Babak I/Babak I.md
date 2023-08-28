@@ -1,3 +1,4 @@
+# Pertemuan Kapisata : Babak I
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7153ef3e-d3e1-448e-b832-b92a5fcd6cae)
 
 Mari lihat apa yang diberikan di pautan Youtube tersebut
@@ -8,8 +9,11 @@ Terdapat mesej penting didalam video tersebut.
 
 Apa yang menarik adalah, kita perlu mencari seseorang.
 
-Seperti dinyatakan dalam video tersebut, kita perlu mencari satu account di media sosial X
+Seperti dinyatakan dalam video tersebut, kita perlu mencari satu account di media sosial X bernama `madah4arjuna`
 
 Dan, Bendera terkandung pada posting terbaru beliau
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/c85f7bda-585d-42f9-b1a2-836e8d79fca2)
+
+# Bendera
+3108{angka_keramat}
