@@ -1,3 +1,4 @@
+# Pertemuan Kapista : Finale
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/fa40384a-3c83-4dbb-882c-d6ebd60218d1)
 
 Kita dikehendaki mencari lokasi pertemuan suspek.
@@ -8,11 +9,11 @@ Berdasarkan Babak II, kita telah dapat telegram Lanang Kusrani, disitu, ada diny
 
 Pergi ke akaun beliau.
 
-Terdapat 6 gambar yang berbeza
+Terdapat 6 gambar yang berbeza.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/fbaf999d-ba1b-4b9d-b064-5f1db8613d15)
 
-Perhati setiap satu gambar tersebut, saya sedar bahawa 5 gambar daripada 6 mempunyai tarikh posting yang sama, cuma gambar sunset tersebut mempunyai tarikh yang berbeza.
+Perhati setiap satu gambar tersebut, saya sedar bahawa 5 daripada 6 gambar tersebut mempunyai tarikh posting yang sama, cuma gambar matahari terbenam tersebut mempunyai tarikh yang berbeza.
 
 Saya teliti gambar tersebut dan akhirnya terjumpa sesuatu pada gambar tersebut.
 
@@ -24,8 +25,11 @@ Dekod daripada base64 dan kita dapat satu pautan ke pastebin
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/178aea9a-0264-4967-a160-79782130fc59)
 
-Pergi ke pautan tersebut dan masukkan password `31082023`, kerana pada salah satu posting Hassan Tapa tertera suata tarikh yang mungkin adalah kata laluan untuk pastebin ini.
+Pergi ke pautan tersebut dan masukkan password `31082023`, kerana pada salah satu posting Hassan Tapa tertera suatu tarikh yang mungkin adalah kata laluan untuk pastebin ini.
 
-Dengan itu, kita tahu bahawa Hassan Tapa ingin berjumpa Ketua Pengganas Sulu di Pulau Mabul
+Dengan itu, kita tahu bahawa Hassan Tapa ingin berjumpa Ketua Pengganas Sulu di Pulau Mabul :desert_island:
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/235e537f-c226-4b70-a5bb-732fc8f18153)
+
+# Bendera
+3108{Pulau_Mabul}
