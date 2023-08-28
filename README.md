@@ -19,8 +19,8 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
   | [Tugasan I : Seruan Perwira](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Utama/Tugasan%201%20%3A%20Seruan%20Perwira/Tugasan%201.md) | - |
-  | Tugasan II : Tali Barut | - |
-  | Warkah Akhir | - |
+  | [Tugasan II : Tali Barut](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Utama/Tugasan%202%20%3A%20Tali%20Barut/Tugasan%202.md) | - |
+  | [Warkah Akhir](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Utama/Warkah%20Akhir/Warkah%20Akhir.md) | - |
   
 </details>
 
@@ -31,10 +31,10 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
     
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | Lemah | Mudah |
-  | Wantujus | Mudah |
-  | Wantusom | Mudah |
-  | Pantul Pantun | Sederhana |
+  | [Lemah](https://github.com/6D756E6972/3108CTF/blob/main/Web/Lemah/Lemah.md) | Mudah |
+  | [Wantujus](https://github.com/6D756E6972/3108CTF/blob/main/Web/Wantujus/Wantujus.md) | Mudah |
+  | [Wantusom](https://github.com/6D756E6972/3108CTF/blob/main/Web/Wantusom/Wantusom.md) | Mudah |
+  | [Pantul Pantun](https://github.com/6D756E6972/3108CTF/blob/main/Web/Pantun%20Pantul/Pantun%20Pantul.md) | Sederhana |
   </details>
 
   <details>
@@ -42,8 +42,8 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | Sarawak | Mudah | 
-  | Pa+rio+ik | Mudah|
+  | [Sarawak](https://github.com/6D756E6972/3108CTF/blob/main/Reverse%20Engineering/Sarawak/Sarawak.md) | Mudah | 
+  | [Pa+rio+ik](https://github.com/6D756E6972/3108CTF/blob/main/Reverse%20Engineering/Pa%2Brio%2Bik/Pa%2Brio%2Bik.md) | Mudah|
   </details>
   
   <details>
@@ -51,9 +51,9 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | Nasihat | Mudah |
-  | Selamat Malam | Sederhana |
-  | 1957bit | Sederhana |
+  | [Nasihat](https://github.com/6D756E6972/3108CTF/blob/main/Cryptography/Nasihat/Nasihat.md) | Mudah |
+  | [Selamat Malam](https://github.com/6D756E6972/3108CTF/blob/main/Cryptography/Selamat%20Malam/Selamat%20Malam.md) | Sederhana |
+  | [1957bit](https://github.com/6D756E6972/3108CTF/blob/main/Cryptography/1957bit/1957bit.md) | Sederhana |
   </details>
 
   <details>
@@ -61,8 +61,8 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | Johan | Mudah |
-  | Lagi-lagi Johan | Mudah |
+  | [Johan](https://github.com/6D756E6972/3108CTF/blob/main/Network/Johan/Johan.md) | Mudah |
+  | [Lagi-lagi Johan](https://github.com/6D756E6972/3108CTF/blob/main/Network/Lagi%20Lagi%20Johan/Lagi%20Lagi%20Johan.md) | Mudah |
   </details>
 
   <details>
@@ -70,8 +70,8 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | Mencari Rahsia Si Dia | Mudah |
-  | 3108 CTF Town | Sederhana |
+  | [Mencari Rahsia Si Dia](https://github.com/6D756E6972/3108CTF/blob/main/Misc/Rahsia%20Si%20Dia/Rahsia%20Si%20Dia.md) | Mudah |
+  | [3108 CTF Town](https://github.com/6D756E6972/3108CTF/blob/main/Misc/3108%20CTF%20Town/3108%20CTF%20Town.md) | Sederhana |
   </details>
 
    <details>
@@ -79,9 +79,9 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | Pertemuan Kapista : Babak I | Mudah |
-  | Pertemuan Kapista : Babak II | Mudah |
-  | Pertemuan Kapista : Finale | Finale |
+  | [Pertemuan Kapista : Babak I](https://github.com/6D756E6972/3108CTF/blob/main/OSINT/Pertemuan%20Kapista%20%3A%20Babak%20I/Babak%20I.md) | Mudah |
+  | [Pertemuan Kapista : Babak II](https://github.com/6D756E6972/3108CTF/blob/main/OSINT/Pertemuan%20Kapista%20%3A%20Babak%20II/Babak%20II.md) | Mudah |
+  | [Pertemuan Kapista : Finale](https://github.com/6D756E6972/3108CTF/blob/main/OSINT/Pertemuan%20Kapista%20%3A%20Finale/Finale.md) | Finale |
   </details>
 </details>
 
@@ -90,9 +90,9 @@ p/s: ini adalah tugasan yang saya berjaya lakukan kecuali untuk kategori Stega d
    
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | YAYASAN DIGITAL MALAYSIA | - |
-  | RE:HACK | - |
-  | TENANG KOMUNITI | - |
-  | ASK PENTEST | - |
-  | SCAMGATE | - |
+  | [YAYASAN DIGITAL MALAYSIA](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Khas%20%3A%20Kenali%20Penaja/Yayasan%20DIgital%20Malaysia/YDM.md) | - |
+  | [RE:HACK](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Khas%20%3A%20Kenali%20Penaja/Re%3AHack/Re%3AHack.md) | - |
+  | [TENANG KOMUNITI](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Khas%20%3A%20Kenali%20Penaja/Tenang%20Komunitit/PARC.md) | - |
+  | [ASK PENTEST](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Khas%20%3A%20Kenali%20Penaja/ASK%20Pentest/ASK%20Pentest.md) | - |
+  | [SCAMGATE](https://github.com/6D756E6972/3108CTF/blob/main/Tugasan%20Khas%20%3A%20Kenali%20Penaja/Scamgate/Scamgate.md) | - |
  </details>
