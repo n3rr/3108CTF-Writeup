@@ -1,3 +1,4 @@
+# 3108 CTF Town
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/09628ba0-9f8c-468c-8f7e-7cf35a09b5e6)
 
 Diberi file `.gba` (Game Boy Advance)
@@ -15,3 +16,6 @@ Ikuti sahaja langkah yang diberikan dalam game tersebut dan pada akhirnya kita d
 Jika menang, bendera akan diberi
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/c098406d-b5a2-438b-9f1e-5a38bc61666d)
+
+# Bendera
+3108{b4ntu_am4l4n_mul1a}
