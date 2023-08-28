@@ -1,6 +1,10 @@
 # Pa+rio+ik
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/04e5740c-4420-4038-836e-8f5184a30715)
 
+## Petunjuk
+1. Sebahagian sahaja sudah cukup untuk buatkan anda sedar
+
+## Penyelesaian
 Diberi file `ELF 64-bit` bernama chall yang meminta kita memasukkan flag.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/90527fec-d9b6-4f59-8097-81a0bbcc5ed7)
