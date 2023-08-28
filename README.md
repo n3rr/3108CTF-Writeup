@@ -34,7 +34,7 @@ p/s: tugasan-tugasan berikut adalah tugasan yang berjaya saya selesaikan, namun 
   | [Lemah](https://github.com/6D756E6972/3108CTF/blob/main/Web/Lemah/Lemah.md) | Mudah |
   | [Wantujus](https://github.com/6D756E6972/3108CTF/blob/main/Web/Wantujus/Wantujus.md) | Mudah |
   | [Wantusom](https://github.com/6D756E6972/3108CTF/blob/main/Web/Wantusom/Wantusom.md) | Mudah |
-  | [Pantul Pantun](https://github.com/6D756E6972/3108CTF/blob/main/Web/Pantun%20Pantul/Pantun%20Pantul.md) | Sederhana |
+  | [Pantun Pantul](https://github.com/6D756E6972/3108CTF/blob/main/Web/Pantun%20Pantul/Pantun%20Pantul.md) | Sederhana |
   </details>
 
   <details>
@@ -81,7 +81,7 @@ p/s: tugasan-tugasan berikut adalah tugasan yang berjaya saya selesaikan, namun 
   | --- | --- |
   | [Pertemuan Kapista : Babak I](https://github.com/6D756E6972/3108CTF/blob/main/OSINT/Pertemuan%20Kapista%20%3A%20Babak%20I/Babak%20I.md) | Mudah |
   | [Pertemuan Kapista : Babak II](https://github.com/6D756E6972/3108CTF/blob/main/OSINT/Pertemuan%20Kapista%20%3A%20Babak%20II/Babak%20II.md) | Mudah |
-  | [Pertemuan Kapista : Finale](https://github.com/6D756E6972/3108CTF/blob/main/OSINT/Pertemuan%20Kapista%20%3A%20Finale/Finale.md) | Finale |
+  | [Pertemuan Kapista : Finale](https://github.com/6D756E6972/3108CTF/blob/main/OSINT/Pertemuan%20Kapista%20%3A%20Finale/Finale.md) | Mudah |
   </details>
 </details>
 
