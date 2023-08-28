@@ -1,7 +1,10 @@
+# Lemah
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/cbe1ebd9-c1c8-4db7-b73d-8df24d941c4a)
 
-URL: https://lemah.bahterasiber.my
+## URL
+https://lemah.bahterasiber.my
 
+## Penyelesaian
 Mari kita lihat apa yang ada pada website tersebut
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/45935fa4-f9c0-4a24-afd3-49832c9f697c)
@@ -25,3 +28,6 @@ Kita dapat lihat bahawa password adalah dalam decimal number, jadi tukarkan saha
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9d4cf6dc-76bb-4c4c-8c79-68d8d3708a20)
 
 Oh, passwordnya adalah bendera kita! Terbaik 👍
+
+## Bendera
+3108{p4ssw0rd_l3m4h!}
