@@ -1,7 +1,10 @@
+# Wantusom
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7596d9ba-1bc3-4133-8d1e-08c45dfc80bb)
 
-URL : https://wantusom.bahterasiber.my
+## URL
+https://wantusom.bahterasiber.my
 
+## Penyelesaian
 Benda yang sama seperti Wantujus
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/76582c0f-afdb-4b29-904e-57cd7f4c9e7f)
@@ -27,3 +30,6 @@ Mmm... biskut lagi. Ingat tak macam mana saya tukar biskut sebelum ini? Ya. cara
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/cabcebfa-9f3c-420a-b555-449b2c7ab86b)
 Sebenarnya, saya lagi suka biskut tiger 😆
+
+## Bendera
+3108{biskut_tiger}
