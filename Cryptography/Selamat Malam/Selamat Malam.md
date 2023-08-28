@@ -1,5 +1,5 @@
 # Selamat Malam
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/75ce80ba-e107-48f3-97de-db24ee52d8cd)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/9728120f-d453-41da-b791-c5ce6401a08a)
 
 ## Petunjuk
 1. Dalam rangkap kataku, ada terselit sebuah mesej untukmu dariku, walau ada jarak antaranya.
@@ -11,15 +11,15 @@ Mari kita lihat
 
 Apakah ini? Saya pun bingung pada awalnya. Lirik lagu kah?
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/38837835-b137-434d-a443-15c3643c7674)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/ae49ef14-a55b-4804-9fbf-f899828dc0df)
 
 Tanpa ragu-ragu saya masukkan text tersebut ke Recognize Cipher di website [dcode](https://www.dcode.fr/).
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/5296cd15-b3c3-4b8b-a814-9ab36f4c1dcc)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/e4a16097-a84c-4562-b7f2-24c81f11d1f6)
 
 Didapati text tersebut adalah [Atbash Cipher](https://www.geeksforgeeks.org/implementing-atbash-cipher/)
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/d5604ea8-7819-45fc-a6be-1fa7ab6557e2)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/4c556b36-cc2a-4c3b-820e-28153c9f9049)
 
 Apabila ditukarkan, akhirnya text tersebut dapat dibaca.
 
@@ -29,11 +29,11 @@ Rupa-rupanya bendera tersebut diletakkan di merata-rata tempat, diasingkan setia
 
 Jadi sedikit script dibuat untuk memudahkan urusan.
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/2070df04-7844-4335-b2d5-a661fceec0b9)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/5859bbea-70d2-4b9e-8968-264026d7f18c)
 
 Maka, dapatlah bendera. Semoga Malaysia kekal aman dalam lindugan tuhan 😄👍
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/45042611-6b0f-4a84-9fc4-e7d452776cf0)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/97fc7882-b3f3-451b-ba9c-8d40a0387810)
 
 ## Bendera
 3108{MALAYSIAAMAN}
