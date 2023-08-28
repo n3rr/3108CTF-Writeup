@@ -1,6 +1,7 @@
 # Nasihat
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/fdf7c2a4-3782-44b1-9bb5-78c942d10921)
 
+## Penyelesaian
 Diberi file `.py` dan `.txt.enc` (saya anggap enc adalah encryption)
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/17de72f3-1ec5-409c-acf7-023a2f848164)
@@ -15,5 +16,5 @@ Dengan membuka `nasihat.py`, kita mendapati bahawa password telah disediakn. Jad
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/7618d5a0-2e02-46c5-b8d9-308bf2d8b432)
 
-# Bendera
+## Bendera
 3108{rukun_n3g4r4_adlh_p3nt!ng}
