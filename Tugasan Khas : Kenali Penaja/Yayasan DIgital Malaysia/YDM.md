@@ -1,5 +1,5 @@
 # Yayasan Digital Malaysia
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/5d08d2c2-e3a2-40ec-ad13-7c549c6e369b)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/52469547-315c-4368-9c51-af0fc2c2b414)
 
 ## Penyelesaian
 Scan QR code tersebut, ia membawa kita kepada Youtube Berita RTM.
