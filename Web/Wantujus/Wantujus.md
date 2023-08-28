@@ -1,7 +1,10 @@
+# Wantujus
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/1a417942-e46c-449a-a734-3587d791eb1a)
 
-URL : https://wantujus.bahterasiber.my
+## URL
+https://wantujus.bahterasiber.my
 
+## Penyelesaian
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/b72afb51-d12b-43a6-bb53-51347a8f2b93)
 
 Wah, apakah ini? Permainan wantujus? hahaha
@@ -36,3 +39,6 @@ Jadi, apa salahnya kita menikmati biskut tengah malam ini dan menukarnya dari ba
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/ead0cf7c-44b3-4182-b556-bf1aac56113f)
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/5916af92-3e54-4b05-b51d-81d5d4479b64)
+
+## Bendera
+3108{biskut_marie}
