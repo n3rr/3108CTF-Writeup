@@ -1,14 +1,15 @@
+# Johan
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/fefdde8a-298f-451e-acc0-f04cb0117be5)
 
-Kita diberikan file .pcapng
+Kita diberikan file `.pcapng`
 
-Buka file tersebut dan tapis paket http kerana Johan melayari sebuah laman sesawang
+Buka file tersebut dan tapis paket `http` kerana Johan melayari sebuah laman sesawang
 
-Terdapat beberapa paket ditunjukkan tetapi hanya satu yang menarik perhatian saya. Iaitu paket kedua terakhir dengan request header POST
+Terdapat beberapa paket ditunjukkan tetapi hanya satu yang menarik perhatian saya. Iaitu paket kedua terakhir dengan request header `POST`
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/50c7608d-8ca4-4a80-9a8f-0499d80e944f)
 
-Right click pada paket tersebut dan ikuti HTTP stream
+Right click pada paket tersebut dan ikuti `HTTP Stream`
 
 Terdapat beberapa perkara menarik disini.
 
@@ -24,3 +25,6 @@ Wah, kita berjaya mendapatkan satu pautan! Sedikit modifikasi dilakukan pada pau
 
 Dengan sedikit pembacaan dan kesabaran, bendera tersebut menyorok pada gambar di bahagian bawah laman sesawang tersebut
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/82f27c4a-f1ac-4aa2-9053-fb1bd0a0a8ec)
+
+# Bendera
+3108{KU4L4_LUMPUR}
