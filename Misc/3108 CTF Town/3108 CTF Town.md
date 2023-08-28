@@ -1,10 +1,10 @@
 # 3108 CTF Town
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/09628ba0-9f8c-468c-8f7e-7cf35a09b5e6)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/721c86ce-8822-4913-ae94-548f000e21b2)
 
 ## Penyelesaian
 Diberi file `.gba` (Game Boy Advance)
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9e6902a8-54f9-4173-877c-0a25892dd6b7)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/5687218a-e902-46f8-8128-e2ddf454a5f2)
 
 Saya menggunakan [VBA Emulator](https://www.emulatorgames.net/emulators/gameboy-advance/visualboyadvance-m-64-bit-2-0-2/) untuk tugasan ini.
 
@@ -16,7 +16,7 @@ Ikuti sahaja langkah yang diberikan dalam game tersebut dan pada akhirnya kita d
 
 Jika menang, bendera akan diberi
 
-![image](https://github.com/6D756E6972/3108CTF/assets/129729880/c098406d-b5a2-438b-9f1e-5a38bc61666d)
+![image](https://github.com/6E3372/3108CTF-Writeup/assets/129729880/871c84a2-86bb-4810-ba31-0ad53e7e7f3c)
 
 ## Bendera
 3108{b4ntu_am4l4n_mul1a}
