@@ -6,7 +6,7 @@ Ini adalah pertandigan CTF (Capture The Flag) yang dianjurkan oleh Bahtera Siber
 
 Format pertandingan adalah jeopardy dan jalan cerita.
 
-Bagi saya, konsep jalan cerita ini amat menyeronokkan dan mencabar.
+Markah diberi menggunakan konsep Pool Based (Markah Asal / Jumlah Solved)
 
 p/s: saya tidak dapat membuat semua tugasan, hanya mampu membuat sekurang-kurangnya satu tugasan untuk setiap kategori kecuali Stega dan Forensic :face_with_spiral_eyes:
 
