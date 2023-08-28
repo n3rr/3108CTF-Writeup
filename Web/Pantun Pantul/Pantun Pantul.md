@@ -1,5 +1,10 @@
+# Pantun Pantul
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9cc11670-905e-4f95-9bdb-8a9da233d814)
 
+## URL
+https://pantun.bahterasiber.my/
+
+## Penyelesain
 Akses pautan tersebut.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/ff8b650a-ec2e-42ba-b4b2-8c444f213bef)
@@ -17,10 +22,13 @@ Mari lihat apa yang ada di inspect element.
 
 Terdapat fungsi `bendera()` disini 
 
-Seperti yang saya lihat, fungsi ini tidak akan terpanggil.
+Seperti yang saya lihat, fungsi ini tidak boleh terpanggil dengan sendirinya.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/9ac89fde-8a7f-44df-8a37-d5447e34fdef)
 
 Jadi, saya panggil fungsi `bendera()` melalui console dan bendera pun tertera pada skrin.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/2d32f0cc-503e-4985-bee7-71df9066362a)
+
+## Bendera
+3108{pantun1337kerat}
