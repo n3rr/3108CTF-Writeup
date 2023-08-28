@@ -4,7 +4,7 @@
 ## URL
 https://pantun.bahterasiber.my/
 
-## Penyelesain
+## Penyelesaian
 Akses pautan tersebut.
 
 ![image](https://github.com/6D756E6972/3108CTF/assets/129729880/ff8b650a-ec2e-42ba-b4b2-8c444f213bef)
